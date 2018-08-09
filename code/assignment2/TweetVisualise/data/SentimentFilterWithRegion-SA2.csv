@@ -1,0 +1,949 @@
+RegionId,Name,Observations,Sum,Sentiment
+117031334,"Pyrmont - Ultimo",194,9338.71,48.14
+117031337,"Sydney - Haymarket - The Rocks",2969,145597.10,49.04
+213011336,"Sunshine",2,98.78,49.39
+507021165,"Fremantle",257,11669.55,45.41
+506041133,"Canning Vale - East",5,64.11,12.82
+118011339,"Bondi - Tamarama - Bronte",159,6778.42,42.63
+303051076,"Rocklea - Acacia Ridge",10,378.30,37.83
+503021041,"Perth City",1165,50354.31,43.22
+206041122,"Melbourne",2316,113492.47,49.00
+305011105,"Brisbane City",1280,66168.56,51.69
+303021059,"Yeronga",21,382.83,18.23
+301021527,"Redland Islands",29,1434.34,49.46
+302031036,"Brisbane Airport",211,8259.70,39.15
+206051128,"Albert Park",124,6478.31,52.24
+305011106,"Fortitude Valley",153,5373.15,35.12
+403011057,"Glenelg (SA)",69,3390.40,49.14
+601051027,"Hobart",431,16568.40,38.44
+122031432,"Terrey Hills - Duffys Forest",5,353.97,70.79
+206041126,"Southbank",758,34384.07,45.36
+206071142,"Fitzroy",142,5485.08,38.63
+117011325,"Sydney Airport",296,10849.79,36.65
+101021011,"Queanbeyan Region",65,-77.41,-1.19
+213051468,"Werribee - West",2,116.31,58.16
+122011419,"Manly - Fairlight",116,5614.41,48.40
+123031446,"Douglas Park - Appin",7,38.90,5.56
+206051134,"St Kilda East",20,661.80,33.09
+206041120,"Flemington Racecourse",80,3906.75,48.83
+206041124,"Parkville",37,1269.00,34.30
+209021207,"Reservoir - East",3,-59.37,-19.79
+206051131,"Port Melbourne Industrial",21,1029.78,49.04
+601031017,"Glenorchy",4,258.32,64.58
+305011110,"South Brisbane",435,20233.24,46.51
+206041118,"Docklands",130,5367.50,41.29
+118011345,"Paddington - Moore Park",146,6939.38,47.53
+206071141,"Collingwood",50,2281.95,45.64
+124011454,"Springwood - Winmalee",2,32.89,16.45
+206041117,"Carlton",106,4309.15,40.65
+206061136,"Prahran - Windsor",70,3245.53,46.36
+210051248,"Melbourne Airport",300,9246.45,30.82
+121041415,"Mosman",71,3167.47,44.61
+118011341,"Bondi Junction - Waverly",24,671.29,27.97
+116011306,"Doonside - Woodcroft",10,531.89,53.19
+206041123,"North Melbourne",67,2967.88,44.30
+206061137,"South Yarra - East",68,2887.78,42.47
+206051132,"South Melbourne",92,4044.17,43.96
+506071147,"South Perth - Kensington",24,983.67,40.99
+601021005,"Cambridge",109,3439.94,31.56
+401011001,"Adelaide",1140,48694.88,42.71
+206041119,"East Melbourne",412,18059.79,43.83
+213051464,"Point Cook - East",6,190.52,31.75
+801061068,"Parkes (ACT) - South",545,24159.43,44.33
+117031332,"Newtown - Camperdown - Darlington",126,5450.61,43.26
+401021004,"Aldgate - Stirling",21,712.84,33.94
+120011383,"Concord - Mortlake - Cabarita",6,366.22,61.04
+126021500,"Macquarie Park - Marsfield",19,899.33,47.33
+403041083,"McLaren Vale",77,2862.89,37.18
+601051031,"Sandy Bay",144,6559.35,45.55
+107041148,"Thirroul - Austinmer - Coalcliff",27,1066.07,39.48
+801051051,"Braddon",65,2386.59,36.72
+801031114,"Canberra Airport",58,2767.37,47.71
+505011070,"Craigie - Beldon",1,-22.63,-22.63
+506021123,"Victoria Park - Lathlain - Burswood",94,4155.46,44.21
+506021121,"Perth Airport",92,3547.20,38.56
+401011002,"North Adelaide",124,6206.22,50.05
+404031104,"Adelaide Airport",90,3372.87,37.48
+305011108,"Kangaroo Point",34,1242.90,36.56
+117031335,"Redfern - Chippendale",118,5634.96,47.75
+117031333,"Potts Point - Woolloomooloo",79,3665.16,46.39
+208041195,"Malvern East",27,1260.91,46.70
+801051049,"Acton",25,979.72,39.19
+801051053,"Civic",287,12691.09,44.22
+601061035,"Sorell - Richmond",24,842.96,35.12
+401071023,"Goodwood - Millswood",18,971.00,53.94
+403041088,"Willunga",20,855.01,42.75
+403021059,"Hallett Cove",8,229.88,28.74
+401061022,"Walkerville",12,663.56,55.30
+401041015,"Paradise - Newton",11,699.75,63.61
+601041025,"Mount Wellington",73,2180.75,29.87
+503011031,"Claremont (WA)",19,935.08,49.21
+505011071,"Currambine - Kinross",6,394.61,65.77
+125011473,"Homebush Bay - Silverwater",204,10590.11,51.91
+801051124,"Campbell",116,-3884.42,-33.49
+207011149,"Camberwell",5,190.55,38.11
+305011111,"Spring Hill",24,1385.38,57.72
+504031059,"Ellenbrook",9,517.97,57.55
+210051249,"Roxburgh Park - Somerton",2,62.42,31.21
+401031011,"Burnside - Wattle Park",16,877.09,54.82
+507021164,"East Fremantle",5,89.43,17.89
+305031128,"Newstead - Bowen Hills",84,3932.71,46.82
+305011112,"West End",32,1217.57,38.05
+207031167,"Surrey Hills (East) - Mont Albert",4,341.07,85.27
+301011006,"Wellington Point",7,-30.02,-4.29
+801041040,"Gungahlin",8,300.74,37.59
+206011106,"Brunswick East",14,632.19,45.16
+208021179,"Elsternwick",5,177.83,35.57
+304031096,"St Lucia",24,1195.47,49.81
+305031126,"Kelvin Grove - Herston",11,601.01,54.64
+210051443,"Craigieburn - South",2,130.61,65.31
+101061542,"Yass Region",34,979.59,28.81
+503011032,"Cottesloe",56,2982.97,53.27
+310021278,"Esk",2,75.91,37.96
+310021282,"Rosewood",22,933.94,42.45
+401051019,"St Peters - Marden",9,501.32,55.70
+305041135,"Paddington - Milton",114,5404.19,47.41
+118011340,"Bondi Beach - North Bondi",138,6030.18,43.70
+116031319,"Rooty Hill - Minchinbury",10,261.52,26.15
+117031331,"Glebe - Forest Lodge",26,831.25,31.97
+309071256,"Oxenford - Maudsland",1,91.84,91.84
+305021118,"Norman Park",1,45.88,45.88
+211021262,"Warrandyte - Wonga Park",2,165.35,82.68
+206051133,"St Kilda",149,7565.27,50.77
+214011374,"Langwarrin",23,852.44,37.06
+314031394,"Strathpine - Brendale",20,1357.43,67.87
+401021003,"Adelaide Hills",9,333.61,37.07
+401031013,"Toorak Gardens",13,721.45,55.50
+120031396,"Homebush",3,182.29,60.76
+212051323,"Mount Waverley - North",6,276.84,46.14
+117031336,"Surry Hills",118,5968.11,50.58
+403031065,"Belair",5,211.49,42.30
+206011107,"Brunswick West",14,719.63,51.40
+503011034,"Mosman Park - Peppermint Grove",16,1130.57,70.66
+120031391,"Burwood - Croydon",2,-6.42,-3.21
+119041379,"Kogarah Bay - Carlton - Allawah",8,286.26,35.78
+207031163,"Box Hill",2,13.09,6.55
+401021010,"Uraidla - Summertown",34,1647.38,48.45
+503021038,"Mount Hawthorn - Leederville",21,729.08,34.72
+503021037,"Kings Park (WA)",32,1336.36,41.76
+118021569,"Randwick - North",2,95.24,47.62
+801051050,"Ainslie",1,59.94,59.94
+507041181,"Melville",7,440.00,62.86
+206071144,"Richmond (Vic.)",85,2970.39,34.95
+118021348,"Coogee - Clovelly",68,2998.71,44.10
+313051542,"Scarborough - Newport - Moreton Island",51,1863.04,36.53
+801011003,"Bruce",68,3523.23,51.81
+311061333,"Slacks Creek",8,216.15,27.02
+503021039,"Mount Lawley - Inglewood",28,1159.51,41.41
+118011343,"Double Bay - Bellevue Hill",35,1771.80,50.62
+128021534,"Illawong - Alfords Point",3,225.48,75.16
+123011435,"Mount Annan - Currans Hill",5,333.78,66.76
+125031485,"Merrylands - Holroyd",26,1223.20,47.05
+207011151,"Hawthorn",37,1770.10,47.84
+206021112,"Thornbury",9,356.46,39.61
+503011035,"Nedlands - Dalkeith - Crawley",17,352.85,20.76
+311051326,"Loganlea",3,183.33,61.11
+305041132,"Ashgrove",3,180.67,60.22
+122031428,"Frenchs Forest - Belrose",18,990.78,55.04
+212051324,"Mount Waverley - South",4,316.46,79.12
+801091100,"Curtin",53,506.87,9.56
+505021091,"Osborne Park Industrial",8,334.02,41.75
+507011260,"Jandakot",16,787.57,49.22
+309071253,"Hope Island",51,2650.11,51.96
+213041357,"Melton South",8,356.03,44.50
+124031458,"Castlereagh - Cranebrook",6,399.77,66.63
+119031374,"South Hurstville - Blakehurst",5,-9.12,-1.82
+801091102,"Garran",2,-34.76,-17.38
+603011066,"Derwent Valley",10,513.51,51.35
+208011169,"Brighton (Vic.)",87,3871.58,44.50
+125011586,"Lidcombe",8,249.61,31.20
+121041416,"Neutral Bay - Kirribilli",23,1383.80,60.17
+117031329,"Darlinghurst",93,4021.48,43.24
+801061129,"Barton",17,896.67,52.75
+801081098,"Weston",3,124.49,41.50
+310021281,"Lowood",2,133.92,66.96
+801041044,"Harrison",3,95.47,31.82
+801071084,"Monash",1,89.90,89.90
+505021092,"Scarborough",44,1760.03,40.00
+801051126,"Parkes (ACT) - North",23,1115.09,48.48
+404011093,"Hindmarsh - Brompton",56,3100.44,55.37
+401051017,"Norwood (SA)",23,1007.88,43.82
+404021099,"Largs Bay - Semaphore",21,1051.82,50.09
+601031014,"Berriedale - Chigwell",72,2178.72,30.26
+213051365,"Tarneit",1,27.32,27.32
+206071143,"Fitzroy North",31,2121.88,68.45
+603021069,"Bruny Island - Kettering",33,1209.86,36.66
+120011384,"Concord West - North Strathfield",11,656.84,59.71
+405011111,"Light",8,436.49,54.56
+401071024,"Unley - Parkside",12,695.92,57.99
+102011032,"Gosford - Springfield",12,732.03,61.00
+119011572,"Bankstown - South",28,226.31,8.08
+117021326,"Marrickville",31,785.74,25.35
+209041436,"South Morang (South)",1,69.01,69.01
+206011108,"Coburg",8,-9.58,-1.20
+801061130,"Fyshwick",11,616.72,56.07
+309071252,"Helensvale",12,471.19,39.27
+118021350,"Malabar - La Perouse - Chifley",20,750.44,37.52
+118021570,"Randwick - South",15,982.32,65.49
+208031189,"Edithvale - Aspendale",6,289.85,48.31
+212051322,"Glen Waverley - West",6,350.19,58.37
+404011090,"Beverley",11,467.52,42.50
+317011448,"Gatton",10,290.93,29.09
+601011002,"Brighton - Pontville",19,851.95,44.84
+601031015,"Claremont (Tas.)",13,630.94,48.53
+117031330,"Erskineville - Alexandria",50,2426.57,48.53
+507031173,"Kwinana Industrial",6,269.95,44.99
+212011289,"Emerald - Cockatoo",3,40.27,13.42
+214011370,"Carrum Downs",40,-2145.21,-53.63
+120011386,"Five Dock - Abbotsford",8,541.22,67.65
+506041132,"Beckenham - Kenwick - Langford",4,182.19,45.55
+404031108,"Richmond (SA)",39,1698.94,43.56
+304031094,"Indooroopilly",5,102.94,20.59
+303061080,"Sunnybank Hills",7,206.17,29.45
+122031431,"Narrabeen - Collaroy",9,531.66,59.07
+404011092,"Henley Beach",19,1053.23,55.43
+128011606,"Woolaware - Burraneer",3,95.54,31.85
+801111140,"ACT - South West",26,938.12,36.08
+214011371,"Frankston",13,251.08,19.31
+302031037,"Eagle Farm - Pinkenba",26,1234.41,47.48
+304031095,"Sherwood",1,75.06,75.06
+311031316,"Hillcrest",2,151.14,75.57
+309071251,"Coomera",68,2638.40,38.80
+303021058,"Woolloongabba",43,2104.43,48.94
+801061070,"Yarralumla",42,2220.56,52.87
+801061064,"Griffith (ACT)",28,1402.98,50.11
+206031116,"Moonee Ponds",19,1055.74,55.57
+309071258,"Upper Coomera - Willow Vale",14,624.53,44.61
+304021089,"Fig Tree Pocket",107,2574.08,24.06
+305041133,"Auchenflower",6,420.50,70.08
+314011386,"The Hills District",11,528.02,48.00
+213011335,"St Albans - South",2,158.68,79.34
+119041375,"Arncliffe - Bardwell Valley",6,323.19,53.87
+314011387,"Samford Valley",6,255.48,42.58
+121041417,"North Sydney - Lavender Bay",69,2730.22,39.57
+207011152,"Hawthorn East",4,56.73,14.18
+206071140,"Carlton North - Princes Hill",14,481.89,34.42
+116031318,"Prospect Reservoir",27,737.62,27.32
+506071145,"Como",5,323.42,64.68
+121021404,"Berowra - Brooklyn - Cowan",5,290.61,58.12
+122021421,"Bayview - Elanora Heights",8,288.37,36.05
+119041381,"Rockdale - Banksia",16,444.63,27.79
+503021043,"Wembley - West Leederville - Glendalough",9,300.75,33.42
+402021035,"Virginia - Waterloo Corner",7,390.32,55.76
+212041317,"Springvale",10,513.03,51.30
+210011227,"Essendon Airport",10,361.21,36.12
+208011171,"Cheltenham - Highett (West)",5,349.69,69.94
+126021499,"Hunters Hill - Woolwich",4,254.97,63.74
+121011400,"Lane Cove - Greenwich",7,364.58,52.08
+213031349,"Maribyrnong",5,321.03,64.21
+801051123,"Black Mountain",15,460.54,30.70
+504031066,"Midland - Guildford",10,628.39,62.84
+507051188,"Rockingham",14,394.26,28.16
+401051018,"Payneham - Felixstow",7,115.01,16.43
+117011322,"Mascot - Eastlakes",17,652.43,38.38
+801061131,"Kingston (ACT)",33,1611.82,48.84
+302021031,"Kedron - Gordon Park",6,347.70,57.95
+313021364,"Burpengary - East",1,62.89,62.89
+801041047,"Nicholls",13,496.80,38.22
+122031430,"Manly Vale - Allambie Heights",3,80.36,26.79
+121031407,"Gordon - Killara",3,90.44,30.15
+401021005,"Hahndorf - Echunga",24,992.81,41.37
+119021362,"Belmore - Belfield",6,329.79,54.97
+213051368,"Werribee - South",20,1207.48,60.37
+121011402,"Willoughby - Castle Cove - Northbridge",10,627.65,62.77
+211031266,"Ringwood",6,274.50,45.75
+801061066,"Lake Burley Griffin",24,796.15,33.17
+801061063,"Forrest",3,139.85,46.62
+206011105,"Brunswick",48,1538.57,32.05
+403011056,"Brighton (SA)",12,490.58,40.88
+403021061,"Mitchell Park",5,146.08,29.22
+101021010,"Queanbeyan - East",2,108.81,54.41
+506021118,"Belmont - Ascot - Redcliffe",9,312.88,34.76
+121041414,"Crows Nest - Waverton",6,284.47,47.41
+210051441,"Craigieburn - Central",2,119.25,59.63
+504031057,"Beechboro",13,421.68,32.44
+302021028,"Chermside",23,622.61,27.07
+304041102,"Mount Coot-tha",22,1140.83,51.86
+211051274,"Belgrave - Selby",13,478.32,36.79
+124031464,"Penrith",13,504.74,38.83
+203021043,"Lara",12,510.10,42.51
+214021380,"Mornington",22,1183.12,53.78
+305021114,"Bulimba",4,131.24,32.81
+305041137,"Toowong",9,228.09,25.34
+305031130,"Windsor",1,27.32,27.32
+115031300,"Kurrajong Heights - Ebenezer",4,-84.70,-21.18
+504031062,"Lockridge - Kiara",10,725.66,72.57
+206071145,"Yarra - North",5,220.69,44.14
+206051130,"Port Melbourne",33,1243.47,37.68
+313011363,"Bribie Island",8,472.64,59.08
+120021389,"Lilyfield - Rozelle",17,406.69,23.92
+603031073,"Forestier - Tasman",7,328.08,46.87
+601041024,"Margate - Snug",14,522.66,37.33
+506031124,"Bentley - Wilson - St James",7,315.48,45.07
+102011031,"Erina - Green Point",5,301.91,60.38
+210031438,"Glenroy",2,39.42,19.71
+121011401,"St Leonards - Naremburn",13,419.17,32.24
+301011002,"Belmont - Gumdale",15,612.60,40.84
+801031115,"Majura",12,409.19,34.10
+503011030,"City Beach",18,642.81,35.71
+116011303,"Blacktown (East) - Kings Park",15,441.64,29.44
+303011048,"Cannon Hill",4,114.97,28.74
+128021536,"Oyster Bay - Como - Jannali",5,350.92,70.18
+504011047,"Morley",14,-77.07,-5.51
+403041074,"Christies Beach",9,362.87,40.32
+403041087,"Seaford (SA)",12,689.82,57.49
+211051282,"Mount Dandenong - Olinda",13,442.00,34.00
+211041272,"Vermont",2,118.11,59.06
+507041177,"Bicton - Palmyra",3,14.56,4.85
+507041182,"Murdoch - Kardinya",5,129.48,25.90
+603021071,"Geeveston - Dover",5,88.74,17.75
+601011003,"Old Beach - Otago",2,120.26,60.13
+213031348,"Footscray",26,1041.91,40.07
+313051379,"Redcliffe",15,749.58,49.97
+505031105,"Mindarie - Quinns Rocks - Jindalee",8,307.87,38.48
+121011398,"Chatswood (East) - Artarmon",22,814.64,37.03
+403031067,"Blackwood",4,319.30,79.83
+507051187,"Port Kennedy",12,290.05,24.17
+506021122,"Rivervale - Kewdale - Cloverdale",6,301.29,50.22
+303031065,"Upper Mount Gravatt",7,389.14,55.59
+122031427,"Forestville - Killarney Heights",2,117.64,58.82
+404021101,"Port Adelaide",7,230.48,32.93
+207021424,"Doncaster East (North)",5,357.19,71.44
+404011095,"Seaton - Grange",17,645.20,37.95
+117021327,"Petersham - Stanmore",18,1017.03,56.50
+210031236,"Coburg North",2,66.06,33.03
+206071139,"Abbotsford",29,1539.49,53.09
+119031368,"Hurstville",3,123.14,41.05
+120031395,"Haberfield - Summer Hill",9,327.19,36.35
+305011109,"New Farm",35,1566.04,44.74
+305031129,"Wilston",2,150.29,75.15
+404011096,"West Lakes",4,206.09,51.52
+404011094,"Royal Park - Hendon - Albert Park",9,423.08,47.01
+206041127,"West Melbourne",8,285.40,35.68
+206031115,"Flemington",10,589.80,58.98
+115011291,"Baulkham Hills (West) - Bella Vista",6,331.06,55.18
+407011147,"Strathalbyn Region",6,245.18,40.86
+209031209,"Eltham",4,247.57,61.89
+404011091,"Flinders Park",9,461.81,51.31
+117031338,"Waterloo - Beaconsfield",13,598.64,46.05
+125031479,"Chester Hill - Sefton",1,45.88,45.88
+801111141,"Namadgi",5,28.93,5.79
+124031457,"Cambridge Park",1,99.10,99.10
+405011112,"Lyndoch",23,974.52,42.37
+210041241,"Sunbury - South",3,257.27,85.76
+801051057,"Lyneham",30,1173.52,39.12
+801031113,"Canberra East",3,-21.59,-7.20
+504021050,"Glen Forrest - Darlington",4,73.09,18.27
+117011320,"Banksmeadow",5,100.36,20.07
+118011346,"Rose Bay - Vaucluse - Watsons Bay",33,1092.95,33.12
+121031412,"Wahroonga (East) - Warrawee",3,215.34,71.78
+101051540,"Goulburn Region",8,302.09,37.76
+206031114,"Essendon - Aberfeldie",5,201.18,40.24
+505021084,"Balcatta - Hamersley",16,657.92,41.12
+402031038,"Windsor Gardens",1,50.93,50.93
+313021366,"Caboolture - South",1,51.06,51.06
+206041121,"Kensington (Vic.)",12,275.71,22.98
+506031130,"Welshpool",13,655.38,50.41
+603021070,"Cygnet",10,249.67,24.97
+505021094,"Trigg - North Beach - Watermans Bay",5,21.72,4.34
+402041048,"Salisbury North",2,12.27,6.14
+401061021,"Prospect",5,254.84,50.97
+310021277,"Boonah",2,81.13,40.57
+208031191,"Moorabbin - Heatherton",6,373.82,62.30
+309071254,"Jacobs Well - Alberton",6,194.31,32.39
+313021365,"Caboolture",6,181.45,30.24
+209031211,"Kinglake",3,190.41,63.47
+213031352,"Yarraville",4,210.52,52.63
+206011109,"Pascoe Vale South",3,60.57,20.19
+601061034,"Dodges Ferry - Lewisham",18,794.78,44.15
+507011159,"South Lake - Cockburn Central",6,-163.92,-27.32
+211051276,"Healesville - Yarra Glen",29,1133.62,39.09
+505021088,"Innaloo - Doubleview",3,84.35,28.12
+120021387,"Balmain",14,547.82,39.13
+302031035,"Boondall",35,1325.95,37.88
+206061138,"Toorak",5,323.45,64.69
+209021428,"Preston - East",9,22.38,2.49
+118011342,"Centennial Park",10,542.81,54.28
+122021420,"Avalon - Palm Beach",15,676.36,45.09
+505011075,"Hillarys",12,226.93,18.91
+207011155,"Surrey Hills (West) - Canterbury",1,72.69,72.69
+107041147,"Helensburgh",9,441.66,49.07
+123011434,"Elderslie - Harrington Park",2,48.28,24.14
+210021234,"Riddells Creek",2,91.54,45.77
+125041492,"Parramatta - Rosehill",39,1870.69,47.97
+801061062,"Deakin",7,389.95,55.71
+213051363,"Laverton",4,272.48,68.12
+314021390,"North Lakes - Mango Hill",3,-30.63,-10.21
+303031063,"Mount Gravatt",6,312.80,52.13
+505011074,"Heathridge - Connolly",9,218.36,24.26
+311051328,"Waterford West",2,166.69,83.35
+310041300,"Goodna",2,114.53,57.27
+212041309,"Clarinda - Oakleigh South",3,161.12,53.71
+505031103,"Madeley - Darch - Landsdale",7,304.78,43.54
+507011150,"Bibra Industrial",3,89.24,29.75
+211051278,"Lilydale - Coldstream",26,1301.76,50.07
+211041273,"Vermont South",6,223.28,37.21
+128011604,"Cronulla - Kurnell - Bundeena",16,662.51,41.41
+403021064,"Warradale",7,310.70,44.39
+404031109,"West Beach",15,945.58,63.04
+302011025,"Everton Park",1,75.79,75.79
+506031131,"Willetton",2,14.10,7.05
+127021510,"Bossley Park - Abbotsbury",1,88.34,88.34
+310031286,"Ipswich - Central",15,448.41,29.89
+213041359,"Rockbank - Mount Cottrell",2,138.24,69.12
+208021427,"Bentleigh East (South)",4,230.91,57.73
+125031483,"Guildford - South Granville",1,44.04,44.04
+301011004,"Capalaba",5,203.59,40.72
+121031411,"Turramurra",5,149.54,29.91
+211011251,"Bayswater",2,150.80,75.40
+303021054,"Fairfield - Dutton Park",2,83.92,41.96
+211031267,"Ringwood East",2,-53.78,-26.89
+124041466,"Richmond - Clarendon",9,364.18,40.46
+212041318,"Springvale South",1,-38.02,-38.02
+125011582,"Auburn - Central",4,175.97,43.99
+214011373,"Frankston South",2,114.47,57.24
+206041125,"South Yarra - West",12,800.73,66.73
+211051283,"Mount Evelyn",3,184.10,61.37
+801061069,"Red Hill (ACT)",5,132.67,26.53
+118021564,"Kensington (NSW)",21,1419.44,67.59
+401021008,"Mount Barker Region",6,446.69,74.45
+102011039,"Terrigal - North Avoca",6,358.14,59.69
+119011356,"Condell Park",5,334.64,66.93
+303041070,"Salisbury - Nathan",5,193.21,38.64
+503021042,"Subiaco - Shenton Park",27,1307.38,48.42
+303041068,"Moorooka",4,205.95,51.49
+302041042,"Brighton (Qld)",1,45.88,45.88
+309041242,"Tamborine - Canungra",4,18.68,4.67
+507011155,"Henderson",1,63.69,63.69
+122031429,"Freshwater - Brookvale",15,434.68,28.98
+801011022,"Melba",1,51.06,51.06
+208011172,"Hampton",6,161.01,26.84
+125031481,"Granville - Clyde",3,-4.13,-1.38
+305021115,"East Brisbane",5,245.68,49.14
+603031074,"Triabunna - Bicheno",8,673.51,84.19
+122021422,"Newport - Bilgola",9,219.24,24.36
+212041314,"Keysborough",4,164.51,41.13
+404021102,"The Parks",8,120.02,15.00
+401021006,"Lobethal - Woodside",18,1030.55,57.25
+801011005,"Cook",1,73.51,73.51
+206051129,"Elwood",7,196.45,28.06
+305021117,"Morningside - Seven Hills",2,55.03,27.52
+310041304,"Springfield Lakes",2,142.18,71.09
+310031289,"Karalee - Barellan Point",5,206.05,41.21
+102011030,"Calga - Kulnura",9,304.64,33.85
+301021013,"Victoria Point",1,-61.24,-61.24
+507011154,"Hamilton Hill",5,-16.58,-3.32
+208011173,"Sandringham - Black Rock",4,71.34,17.84
+125041489,"North Parramatta",4,205.62,51.41
+208021176,"Carnegie",3,152.95,50.98
+603021072,"Huonville - Franklin",18,940.56,52.25
+311061332,"Rochedale South - Priestdale",7,312.34,44.62
+301021008,"Ormiston",4,239.67,59.92
+127031601,"Warwick Farm",1,81.90,81.90
+506031125,"Canning Vale - West",3,201.40,67.13
+603011067,"Southern Midlands",12,399.15,33.26
+403021058,"Edwardstown",2,90.23,45.12
+127021511,"Cabramatta - Lansvale",9,499.82,55.54
+504011044,"Bassendean - Eden Hill - Ashfield",8,437.29,54.66
+504011045,"Bayswater - Embleton - Bedford",2,108.47,54.24
+505011077,"Joondalup - Edgewater",17,956.21,56.25
+209041223,"Thomastown",2,52.05,26.03
+116011308,"Seven Hills - Toongabbie",2,139.92,69.96
+801071075,"Conder",3,136.57,45.52
+118021568,"Maroubra - West",4,229.72,57.43
+305031124,"Hamilton (Qld)",21,789.05,37.57
+310011271,"Darra - Sumner",8,312.61,39.08
+310011273,"Forest Lake - Doolandella",8,435.03,54.38
+212021293,"Berwick - North",5,91.59,18.32
+507041175,"Applecross - Ardross",7,277.48,39.64
+407031164,"Mannum",1,51.06,51.06
+403041086,"Reynella",3,120.57,40.19
+601051032,"South Hobart - Fern Tree",13,585.80,45.06
+211011254,"Knoxfield - Scoresby",1,44.04,44.04
+305031121,"Ascot",7,263.90,37.70
+206021110,"Alphington - Fairfield",5,172.57,34.51
+601051029,"Mount Nelson - Dynnyrne",4,84.75,21.19
+302021030,"Geebung",2,109.90,54.95
+115041302,"Rouse Hill - Beaumont Hills",4,141.53,35.38
+209041225,"Whittlesea",4,-204.24,-51.06
+303021052,"Annerley",12,586.49,48.87
+123021436,"Bradbury - Wedderburn",3,61.91,20.64
+402021031,"Elizabeth East",3,144.69,48.23
+213041356,"Melton",1,15.11,15.11
+212011292,"Pakenham - South",7,474.17,67.74
+801011002,"Belconnen",17,848.97,49.94
+123021437,"Campbelltown - Woodbine",5,301.95,60.39
+120021388,"Leichhardt - Annandale",20,1147.51,57.38
+124021456,"Blue Mountains - South",1,22.63,22.63
+119041380,"Monterey - Brighton-le-Sands - Kyeemagh",7,449.79,64.26
+506031128,"Parkwood - Ferndale - Lynwood",2,119.62,59.81
+801071076,"Fadden",2,136.63,68.32
+311021308,"Edens Landing - Holmview",3,51.47,17.16
+209041433,"Epping - West",2,120.45,60.23
+126021591,"Ryde",4,265.54,66.39
+211051286,"Yarra Valley",6,184.19,30.70
+601021011,"Rokeby",1,85.55,85.55
+601021012,"South Arm",4,176.16,44.04
+317011451,"Lockyer Valley - West",1,67.05,67.05
+212031457,"Narre Warren South (East)",1,81.76,81.76
+213041360,"Taylors Hill",2,109.86,54.93
+302041044,"Sandgate - Shorncliffe",8,456.11,57.01
+213021344,"Newport",8,337.38,42.17
+207011153,"Kew",5,125.40,25.08
+207011150,"Glen Iris - East",2,164.91,82.46
+404031107,"Plympton",15,481.29,32.09
+505031108,"Wanneroo",1,-27.32,-27.32
+601031020,"New Norfolk",12,489.87,40.82
+509031246,"Brookton",5,191.92,38.38
+213031347,"Braybrook",8,263.87,32.98
+121041413,"Cremorne - Cammeray",7,339.86,48.55
+505011079,"Mullaloo - Kallaroo",7,353.19,50.46
+403031068,"Colonel Light Gardens",5,236.00,47.20
+211041269,"Forest Hill",5,90.75,18.15
+102011029,"Box Head - MacMasters Beach",4,226.99,56.75
+314011384,"Dayboro",6,156.24,26.04
+214011372,"Frankston North",2,-13.04,-6.52
+214021381,"Mount Eliza",5,257.71,51.54
+601021004,"Bellerive - Rosny",21,890.67,42.41
+213051362,"Hoppers Crossing - South",3,137.80,45.93
+126021503,"West Ryde - Meadowbank",1,-22.63,-22.63
+301021009,"Redland Bay",3,150.26,50.09
+507011161,"Success - Hammond Park",6,318.47,53.08
+201021009,"Bacchus Marsh Region",2,52.92,26.46
+505021096,"Wembley Downs - Churchlands - Woodlands",4,200.62,50.16
+212051320,"Clayton",7,285.30,40.76
+507021166,"Fremantle - South",7,389.09,55.58
+503021040,"North Perth",8,356.82,44.60
+404021100,"North Haven",3,115.75,38.58
+801101134,"Arboretum",13,823.90,63.38
+127011506,"Cobbitty - Leppington",2,80.33,40.17
+407031165,"Murray Bridge",2,66.92,33.46
+305031119,"Albion",9,179.01,19.89
+211051277,"Kilsyth",1,57.07,57.07
+119011354,"Bass Hill - Georges Hall",2,165.60,82.80
+301031014,"Brisbane Port - Lytton",2,109.57,54.79
+403031070,"Panorama",1,88.83,88.83
+120011385,"Drummoyne - Rodd Point",9,288.37,32.04
+212011287,"Beaconsfield - Officer",3,223.80,74.60
+301031015,"Manly - Lota",5,319.57,63.91
+213031350,"Seddon - Kingsville",6,160.61,26.77
+403041078,"Hackham - Onkaparinga Hills",6,432.57,72.10
+402011026,"Gawler - South",12,534.89,44.57
+801051058,"O'Connor (ACT)",1,27.14,27.14
+123011433,"Camden - Ellis Lane",3,224.64,74.88
+210051246,"Greenvale - Bulla",6,406.46,67.74
+801071090,"Wanniassa",3,159.98,53.33
+313051377,"Clontarf",1,40.05,40.05
+310021280,"Lockyer Valley - East",1,-12.80,-12.80
+403041077,"Flagstaff Hill",2,92.59,46.30
+210011230,"Niddrie - Essendon West",3,154.91,51.64
+801071078,"Gordon (ACT)",5,293.24,58.65
+210051242,"Broadmeadows",1,73.51,73.51
+213051361,"Hoppers Crossing - North",4,212.16,53.04
+212021294,"Berwick - South",1,-59.83,-59.83
+505011076,"Iluka - Burns Beach",3,180.05,60.02
+101021012,"Queanbeyan West - Jerrabomberra",4,201.36,50.34
+801061067,"Narrabundah",4,272.80,68.20
+801091101,"Farrer",1,55.74,55.74
+124011450,"Blaxland - Warrimoo - Lapstone",3,180.56,60.19
+211011448,"Ferntree Gully (South) - Upper Ferntree Gully",1,-40.19,-40.19
+102011042,"Woy Woy - Blackwall",2,104.47,52.24
+124051580,"Colyton - Oxley Park",1,34.00,34.00
+118021565,"Kingsford",7,395.81,56.54
+127021513,"Canley Vale - Canley Heights",1,57.07,57.07
+310041303,"Springfield",2,181.34,90.67
+123021440,"Ingleburn - Denham Court",2,172.02,86.01
+118021566,"Maroubra - North",2,98.61,49.31
+313011362,"Beachmere - Sandstone Point",3,173.96,57.99
+208021177,"Caulfield - North",10,541.84,54.18
+207031161,"Blackburn",1,76.09,76.09
+128011602,"Caringbah",2,81.84,40.92
+403031066,"Bellevue Heights",3,186.27,62.09
+503011036,"Swanbourne - Mount Claremont",9,375.98,41.78
+404031106,"Lockleys",7,422.67,60.38
+209011196,"Bundoora - East",1,40.03,40.03
+208031188,"Cheltenham - Highett (East)",5,267.25,53.45
+117021328,"Sydenham - Tempe - St Peters",11,430.77,39.16
+210051444,"Craigieburn - West",1,31.82,31.82
+119031370,"Narwee - Beverly Hills",1,48.48,48.48
+212041311,"Dandenong",10,320.35,32.04
+118021567,"Maroubra - South",4,208.66,52.17
+801071074,"Chisholm",1,-34.00,-34.00
+801011016,"Kaleen",2,81.22,40.61
+403041079,"Hackham West - Huntfield Heights",2,180.84,90.42
+113021262,"Tumut Region",3,-18.56,-6.19
+601031019,"Moonah",20,807.62,40.38
+601021008,"Lindisfarne - Rose Bay",5,81.73,16.35
+211011260,"Wantirna South",7,267.63,38.23
+311031311,"Boronia Heights - Park Ridge",2,70.88,35.44
+302021027,"Aspley",3,148.24,49.41
+505011082,"Sorrento - Marmion",11,673.64,61.24
+506031127,"Cannington - Queens Park",6,284.68,47.45
+208011168,"Beaumaris",6,171.72,28.62
+504031067,"Stratton - Jane Brook",3,148.80,49.60
+505021097,"Yokine - Coolbinia - Menora",1,93.81,93.81
+119011360,"Revesby",1,62.49,62.49
+505021089,"Karrinyup - Gwelup - Carine",7,348.05,49.72
+214021385,"Somerville",4,165.33,41.33
+207031166,"Burwood East",1,72.69,72.69
+119011357,"Greenacre - Mount Lewis",2,167.99,84.00
+107021135,"Illawarra Catchment Reserve",2,157.01,78.51
+507051193,"Warnbro",2,-3.51,-1.76
+506041137,"Thornlie",5,-18.90,-3.78
+311051327,"Shailer Park",5,-112.47,-22.49
+801071087,"Richardson",1,-77.72,-77.72
+311031312,"Browns Plains",1,29.60,29.60
+118011344,"Dover Heights",5,339.08,67.82
+210021235,"Romsey",7,296.54,42.36
+212041316,"Noble Park North",1,95.45,95.45
+310011274,"Inala - Richlands",1,51.06,51.06
+314031391,"Bray Park",2,121.71,60.86
+302031039,"Nudgee - Banyo",4,198.36,49.59
+210051243,"Campbellfield - Coolaroo",3,105.22,35.07
+207021425,"Doncaster East (South)",2,129.16,64.58
+505011073,"Greenwood - Warwick",3,171.73,57.24
+122021423,"Warriewood - Mona Vale",14,554.66,39.62
+125021477,"Ermington - Rydalmere",1,-20.23,-20.23
+116011307,"Lalor Park - Kings Langley",6,409.51,68.25
+311051323,"Bethania - Waterford",2,5.98,2.99
+301021011,"Sheldon - Mount Cotton",9,607.56,67.51
+212011291,"Pakenham - North",2,123.59,61.80
+313041375,"Narangba",7,75.93,10.85
+601051028,"Lenah Valley - Mount Stuart",2,96.06,48.03
+212041310,"Clayton South",1,55.74,55.74
+402041047,"Salisbury East",3,215.14,71.71
+506011110,"Armadale - Wungong - Brookdale",3,-21.49,-7.16
+102011040,"Umina - Booker Bay - Patonga",7,270.70,38.67
+801041038,"Forde",3,206.61,68.87
+506021119,"East Victoria Park - Carlisle",4,156.11,39.03
+212031308,"Pearcedale - Tooradin",8,516.77,64.60
+203031051,"Portarlington",4,137.48,34.37
+122031426,"Dee Why - North Curl Curl",7,366.79,52.40
+801041037,"Crace",1,34.00,34.00
+119011571,"Bankstown - North",3,57.13,19.04
+801011015,"Holt",2,-7.93,-3.97
+210011231,"Strathmore",1,59.94,59.94
+801051054,"Dickson",11,306.00,27.82
+401041014,"Athelstone",1,47.31,47.31
+209011200,"Ivanhoe",3,95.67,31.89
+504031068,"The Vines",14,396.43,28.32
+118011347,"Woollahra",6,197.99,33.00
+303041067,"Coopers Plains",2,156.09,78.05
+101021007,"Braidwood",11,-40.30,-3.66
+213051366,"Truganina",2,158.84,79.42
+310031294,"Ripley",2,128.55,64.28
+313041374,"Morayfield",6,414.86,69.14
+305041136,"Red Hill (Qld)",2,117.91,58.96
+212041312,"Dandenong North",13,818.46,62.96
+601051033,"West Hobart",4,-45.64,-11.41
+801041045,"Mitchell",3,69.24,23.08
+208021178,"Caulfield - South",3,129.38,43.13
+402051052,"Hope Valley - Modbury",3,165.77,55.26
+405011110,"Barossa - Angaston",4,174.51,43.63
+801081092,"Duffy",1,86.89,86.89
+210021232,"Gisborne",2,79.99,40.00
+213041353,"Bacchus Marsh",3,119.22,39.74
+213021341,"Altona",5,168.07,33.61
+402031036,"Enfield - Blair Athol",7,317.23,45.32
+120031390,"Ashfield",3,22.97,7.66
+311051325,"Loganholme - Tanah Merah",1,77.83,77.83
+210011228,"Keilor",2,25.66,12.83
+211031265,"Croydon Hills - Warranwood",1,45.37,45.37
+211051279,"Monbulk - Silvan",2,146.61,73.31
+128021538,"Sutherland - Kirrawee",4,187.61,46.90
+801071080,"Greenway",4,159.61,39.90
+801051060,"Turner",1,70.96,70.96
+209011202,"Montmorency - Briar Hill",2,100.13,50.07
+211051285,"Wandin - Seville",9,256.58,28.51
+402051055,"St Agnes - Ridgehaven",3,112.43,37.48
+402021033,"One Tree Hill",5,367.54,73.51
+314021389,"Murrumba Downs - Griffin",3,143.96,47.99
+212031304,"Cranbourne West",2,96.79,48.40
+119041376,"Bexley",2,-13.90,-6.95
+213021343,"Altona North",5,193.02,38.60
+304031097,"Taringa",1,79.64,79.64
+125011583,"Auburn - North",3,144.04,48.01
+601051030,"New Town",6,245.45,40.91
+311061329,"Daisy Hill",3,123.58,41.19
+212031458,"Narre Warren South (West)",1,54.11,54.11
+403021063,"Sheidow Park - Trott Park",2,68.51,34.26
+126021501,"North Ryde - East Ryde",1,67.05,67.05
+403041085,"Morphett Vale - West",2,187.53,93.77
+210011226,"Airport West",3,89.69,29.90
+122011418,"Balgowlah - Clontarf - Seaforth",5,224.51,44.90
+208031193,"Mordialloc - Parkdale",5,134.67,26.93
+303011049,"Carina",3,74.32,24.77
+505031256,"Carabooda - Pinjar",1,57.66,57.66
+407011146,"Strathalbyn",1,-43.89,-43.89
+403041084,"Morphett Vale - East",4,375.32,93.83
+601011001,"Bridgewater - Gagebrook",1,65.80,65.80
+212021456,"Narre Warren - South West",5,195.75,39.15
+506051141,"Lesmurdie - Bickley - Carmel",4,75.76,18.94
+303021055,"Greenslopes",1,-49.39,-49.39
+127031523,"Chipping Norton - Moorebank",3,158.36,52.79
+212051321,"Glen Waverley - East",3,101.38,33.79
+126021590,"Putney",2,96.49,48.25
+212021297,"Hallam",1,77.83,77.83
+211031268,"Ringwood North",1,51.06,51.06
+403041073,"Christie Downs",3,102.69,34.23
+303031060,"Eight Mile Plains",3,235.37,78.46
+301031021,"Wynnum West - Hemmant",2,91.86,45.93
+401061020,"Nailsworth - Broadview",2,40.80,20.40
+209041437,"Wollert",1,83.16,83.16
+504011046,"Maylands",2,134.80,67.40
+303041069,"Robertson",1,63.61,63.61
+213021346,"Williamstown",9,359.47,39.94
+209011198,"Heidelberg - Rosanna",4,211.22,52.81
+404011097,"Woodville - Cheltenham",4,156.52,39.13
+801051061,"Watson",6,216.61,36.10
+123021444,"Rosemeadow - Glen Alpine",1,62.49,62.49
+801051127,"Reid",4,104.21,26.05
+507011152,"Coogee",4,246.00,61.50
+209041224,"Wallan",2,120.22,60.11
+303031061,"Macgregor (Qld)",4,186.74,46.69
+206021111,"Northcote",20,981.33,49.07
+301011001,"Alexandra Hills",2,-2.32,-1.16
+403041072,"Aldinga",12,480.95,40.08
+213011340,"Taylors Lakes",4,276.80,69.20
+116031316,"Lethbridge Park - Tregear",2,104.64,52.32
+601021007,"Howrah - Tranmere",3,67.70,22.57
+301021007,"Cleveland",3,157.09,52.36
+401041016,"Rostrevor - Magill",4,86.32,21.58
+123021438,"Claymore - Eagle Vale - Raby",3,156.00,52.00
+407031166,"Murray Bridge Region",3,179.00,59.67
+801011021,"McKellar",1,83.07,83.07
+119021364,"Kingsgrove (North) - Earlwood",2,114.98,57.49
+213011328,"Ardeer - Albion",2,76.31,38.16
+212051326,"Oakleigh - Huntingdale",5,161.06,32.21
+210011229,"Keilor East",2,123.69,61.85
+401021007,"Mount Barker",7,238.55,34.08
+507041180,"Leeming",1,58.59,58.59
+115011559,"Kellyville",1,94.80,94.80
+120031575,"Strathfield",2,127.64,63.82
+301011003,"Birkdale",3,218.19,72.73
+305011107,"Highgate Hill",1,76.50,76.50
+314011383,"Cashmere",2,126.27,63.14
+213011334,"St Albans - North",3,118.46,39.49
+210051245,"Gladstone Park - Westmeadows",2,50.87,25.44
+402021028,"Craigmore - Blakeview",1,-52.67,-52.67
+127021509,"Bonnyrigg Heights - Bonnyrigg",2,118.57,59.29
+102011033,"Kariong",2,54.55,27.28
+128021533,"Heathcote - Waterfall",2,51.52,25.76
+206061135,"Armadale",5,339.68,67.94
+212051325,"Mulgrave",2,153.67,76.84
+116021310,"Parklea - Kellyville Ridge",2,-90.41,-45.21
+101021009,"Queanbeyan",2,30.75,15.38
+507041178,"Booragoon",4,62.53,15.63
+309071257,"Pimpama",4,44.62,11.16
+801071082,"Kambah",3,99.86,33.29
+207031165,"Burwood",1,45.88,45.88
+304031092,"Chelmer - Graceville",1,58.59,58.59
+115011555,"Castle Hill - North",6,127.69,21.28
+311021306,"Beenleigh",2,27.07,13.54
+214011376,"Skye - Sandhurst",1,68.08,68.08
+402041171,"Mawson Lakes - Globe Derby Park",5,270.99,54.20
+801071083,"Macarthur",2,25.60,12.80
+506051138,"Forrestfield - Wattle Grove",1,77.83,77.83
+505031101,"Clarkson",3,-88.80,-29.60
+128021607,"Engadine",1,36.12,36.12
+127031599,"Lurnea - Cartwright",1,57.19,57.19
+210051250,"Tullamarine",3,131.66,43.89
+801071132,"Tuggeranong - West",1,48.40,48.40
+128021537,"Royal National Park",2,112.98,56.49
+504031060,"Gidgegannup",1,82.71,82.71
+311031317,"Marsden",1,38.02,38.02
+125041490,"North Rocks",2,96.49,48.25
+402051053,"Modbury Heights",1,63.69,63.69
+505021090,"Nollamara - Westminster",2,54.64,27.32
+121021403,"Asquith - Mount Colah",2,-32.79,-16.40
+801091109,"Phillip",5,307.16,61.43
+801091104,"Isaacs",1,51.06,51.06
+313051380,"Rothwell - Kippa-Ring",4,320.51,80.13
+310031288,"Ipswich - North",1,31.82,31.82
+302011023,"Bridgeman Downs",3,163.70,54.57
+211041270,"Mitcham (Vic.)",1,88.34,88.34
+801071089,"Tuggeranong",1,70.65,70.65
+505031258,"Yanchep",1,34.00,34.00
+405011115,"Tanunda",4,224.11,56.03
+801011011,"Giralang",2,113.42,56.71
+304041104,"Upper Kedron - Ferny Grove",1,41.73,41.73
+302011024,"Carseldine",1,52.67,52.67
+211031450,"Croydon - East",4,88.18,22.05
+121021577,"Hornsby - East",2,112.03,56.02
+124031460,"Glenmore Park - Regentville",1,80.84,80.84
+116031317,"Mount Druitt - Whalan",2,115.02,57.51
+121021578,"Hornsby - West",1,43.10,43.10
+212021453,"Endeavour Hills - North",2,62.53,31.27
+125031486,"Smithfield Industrial",1,44.04,44.04
+116021563,"Quakers Hill",1,72.69,72.69
+504021053,"Mundaring",2,-3.66,-1.83
+402041043,"Parafield Gardens",1,88.60,88.60
+124041467,"Windsor - Bligh Park",2,58.10,29.05
+206031113,"Ascot Vale",5,183.14,36.63
+212051327,"Wheelers Hill",1,82.67,82.67
+211011447,"Ferntree Gully (North)",2,4.79,2.40
+601031018,"Montrose - Rosetta",3,89.13,29.71
+601021009,"Mornington - Warrane",2,56.17,28.09
+119041378,"Kogarah",1,92.86,92.86
+122031424,"Beacon Hill - Narraweena",3,213.07,71.02
+402041041,"Para Hills",1,44.04,44.04
+213051467,"Werribee - East",1,24.81,24.81
+402011025,"Gawler - North",1,79.06,79.06
+126011496,"Pennant Hills - Cheltenham",5,2.79,0.56
+311061331,"Logan Central",3,123.18,41.06
+801011013,"Hawker",2,9.20,4.60
+115021298,"Galston - Laughtondale",2,14.99,7.50
+310041296,"Bellbird Park - Brookwater",5,179.01,35.80
+303011051,"Carindale",1,75.46,75.46
+311021307,"Eagleby",1,69.56,69.56
+407011149,"Yankalilla",1,30.89,30.89
+403041075,"Clarendon",3,67.36,22.45
+801051125,"Duntroon",3,167.51,55.84
+213051465,"Point Cook - North",2,115.98,57.99
+212031301,"Cranbourne East",4,211.93,52.98
+123021441,"Leumeah - Minto Heights",1,20.23,20.23
+116021312,"Riverstone - Marsden Park",2,162.69,81.35
+302041046,"Zillmere",1,58.59,58.59
+305021113,"Balmoral",2,-8.35,-4.18
+504021052,"Malmalling - Reservoir",1,59.94,59.94
+505011080,"Ocean Reef",2,123.71,61.86
+127011595,"Hinchinbrook",1,91.68,91.68
+309031239,"Paradise Point - Hollywell",2,103.07,51.54
+507051190,"Safety Bay - Shoalwater",3,127.93,42.64
+801071079,"Gowrie (ACT)",2,107.73,53.87
+208031186,"Chelsea - Bonbeach",1,36.12,36.12
+504011048,"Noranda",1,12.30,12.30
+120031394,"Dulwich Hill - Lewisham",2,170.33,85.17
+303011047,"Camp Hill",3,123.63,41.21
+301031018,"Tingalpa",2,163.04,81.52
+126021498,"Gladesville - Huntleys Point",5,272.15,54.43
+403031069,"Mitcham (SA)",1,-10.27,-10.27
+504031065,"Middle Swan - Herne Hill",1,-31.82,-31.82
+506011116,"Roleystone",3,82.92,27.64
+127021518,"Horsley Park - Kemps Creek",1,40.19,40.19
+127031522,"Casula",1,44.04,44.04
+212031300,"Cranbourne",1,67.05,67.05
+801091106,"Mawson",1,20.23,20.23
+302021034,"Wavell Heights",1,83.03,83.03
+507051185,"Baldivis",2,-81.11,-40.56
+127021516,"Fairfield - West",1,70.77,70.77
+211051275,"Chirnside Park",3,106.76,35.59
+310041299,"Collingwood Park - Redbank",1,42.15,42.15
+506061142,"Byford",1,76.09,76.09
+212041460,"Noble Park - West",1,80.20,80.20
+313041372,"Burpengary",1,49.39,49.39
+302031040,"Nundah",2,120.35,60.18
+213011338,"Sunshine West",2,118.69,59.35
+209011199,"Heidelberg West",1,42.15,42.15
+121031409,"Pymble",2,107.98,53.99
+601031013,"Austins Ferry - Granton",1,36.12,36.12
+403021060,"Marino - Seaview Downs",1,57.07,57.07
+125041588,"Pendle Hill - Girraween",1,59.94,59.94
+304011084,"Seventeen Mile Rocks - Sinnamon Park",1,-38.18,-38.18
+119041382,"Sans Souci - Ramsgate",1,42.15,42.15
+505031100,"Carramar",2,176.69,88.35
+403021062,"Morphettville",4,206.91,51.73
+124031461,"Jamisontown - South Penrith",1,36.12,36.12
+208041194,"Malvern - Glen Iris",2,99.98,49.99
+401031012,"Glenside - Beaumont",2,27.91,13.96
+209041432,"Epping - South",2,84.06,42.03
+115011556,"Castle Hill - South",1,21.00,21.00
+212031303,"Cranbourne South",1,96.18,96.18
+123021442,"Macquarie Fields - Glenfield",2,76.86,38.43
+601041026,"Taroona - Bonnet Hill",1,57.66,57.66
+314031393,"Petrie",1,57.66,57.66
+211011255,"Lysterfield",1,62.49,62.49
+503011033,"Floreat",1,89.10,89.10
+303021053,"Coorparoo",2,-44.91,-22.46
+116011304,"Blacktown (North) - Marayong",1,58.48,58.48
+128011530,"Miranda - Yowie Bay",1,36.12,36.12
+117011323,"Pagewood - Hillsdale - Daceyville",1,44.04,44.04
+303061078,"Runcorn",1,58.59,58.59
+311031315,"Greenbank Military Camp",1,95.31,95.31
+405041127,"Yorke Peninsula - North",1,44.04,44.04
+506041135,"Huntingdale - Southern River",1,68.33,68.33
+212031302,"Cranbourne North",1,31.64,31.64
+207021157,"Doncaster",3,193.13,64.38
+402021034,"Smithfield - Elizabeth North",1,-54.23,-54.23
+119021363,"Canterbury (South) - Campsie",2,39.23,19.62
+303061079,"Sunnybank",1,72.69,72.69
+310031290,"Karana Downs",1,49.39,49.39
+209031210,"Hurstbridge",1,22.63,22.63
+213011337,"Sunshine North",1,85.70,85.70
+207031162,"Blackburn South",1,84.58,84.58
+125031482,"Greystanes - Pemulwuy",1,38.02,38.02
+115011290,"Baulkham Hills (East)",1,35.95,35.95
+214011375,"Seaford (Vic.)",1,59.94,59.94
+208021174,"Bentleigh - McKinnon",3,143.54,47.85
+125041494,"Winston Hills",1,70.96,70.96
+115011553,"Castle Hill - Central",2,119.77,59.89
+302031038,"Northgate - Virginia",1,73.51,73.51
+309071255,"Ormeau - Yatala",1,-82.25,-82.25
+213041358,"Melton West",1,48.49,48.49
+509021245,"York - Beverley",1,44.04,44.04
+207021156,"Bulleen",1,77.83,77.83
+127011596,"Hoxton Park - Carnes Hill - Horningsea Park",2,131.09,65.55
+310031284,"Bundamba",1,49.39,49.39
+314021388,"Dakabin - Kallangur",1,10.10,10.10
+601041023,"Kingston Beach - Blackmans Bay",2,47.64,23.82
+801011020,"Macquarie",1,34.00,34.00
+115021297,"Dural - Kenthurst - Wisemans Ferry",1,51.06,51.06
+125041491,"Northmead",2,74.62,37.31
+127021514,"Edensor Park",1,72.97,72.97
+213011330,"Deer Park - Derrimut",2,108.66,54.33
+506041136,"Maddington - Orange Grove - Martin",1,63.69,63.69
+505021086,"Dianella",1,50.55,50.55
+801041043,"Hall",1,65.88,65.88
+506041134,"Gosnells",1,44.04,44.04
+208031185,"Carrum - Patterson Lakes",1,-47.54,-47.54
+303051075,"Parkinson - Drewvale",1,-57.19,-57.19
+303021056,"Holland Park",3,200.98,66.99
+801011008,"Florey",1,50.93,50.93
+127031600,"Prestons - Edmondson Park",2,93.24,46.62
+304011081,"Jindalee - Mount Ommaney",1,74.88,74.88
+506031126,"Canning Vale Commercial",1,44.04,44.04
+120031576,"Strathfield South",2,0.00,0.00
+304021091,"Pinjarra Hills - Pullenvale",1,92.17,92.17
+127031524,"Holsworthy - Wattle Grove",1,66.71,66.71
+116011560,"Blacktown (South)",1,70.03,70.03
+303051072,"Algester",1,42.15,42.15
+209021205,"Kingsbury",1,89.75,89.75
+402011027,"Lewiston - Two Wells",1,25.00,25.00
+402021032,"Munno Para West - Angle Vale",1,84.42,84.42
+209021208,"Reservoir - West",1,-49.39,-49.39
+504031058,"Bullsbrook",1,97.70,97.70
+305031123,"Grange",2,141.18,70.59
+403041080,"Happy Valley",1,7.72,7.72
+213041463,"Caroline Springs",2,87.05,43.53
+210041240,"Sunbury",2,87.18,43.59
+506061144,"Serpentine - Jarrahdale",1,58.59,58.59
+125031487,"Yennora Industrial",1,55.62,55.62
+304031093,"Corinda",1,-22.63,-22.63
+124031463,"Mulgoa - Luddenham - Orchard Hills",2,126.18,63.09
+125041589,"Wentworthville - Westmead",1,72.97,72.97
+125011475,"Rookwood Cemetery",1,57.19,57.19
+128011531,"Sylvania - Taren Point",1,75.00,75.00
+404021103,"Torrens Island",1,57.19,57.19
+402051054,"Redwood Park",1,-49.39,-49.39
+211011258,"Rowville - South",1,38.18,38.18
+801071085,"Mount Taylor",1,-47.67,-47.67
+304041103,"The Gap",1,74.94,74.94
+313051378,"Margate - Woody Point",1,40.19,40.19
+311041321,"Jimboomba",1,50.95,50.95
+303051074,"Pallara - Willawong",1,81.88,81.88
+801031031,"Hume",1,-31.64,-31.64
+210031237,"Fawkner",1,20.23,20.23
+801091107,"O'Malley",1,34.00,34.00
+119011359,"Panania - Milperra - Picnic Point",1,68.00,68.00
+212051319,"Ashwood - Chadstone",1,52.67,52.67
+304041099,"Enoggera Reservoir",1,51.06,51.06
+603011065,"Central Highlands",1,84.42,84.42
+305031131,"Wooloowin - Lutwyche",1,54.11,54.11
+209041217,"Bundoora - West",1,20.23,20.23
+311031319,"Regents Park - Heritage Park",1,-17.79,-17.79
+311051324,"Cornubia - Carbrook",1,51.06,51.06
+305021116,"Hawthorne",1,-44.04,-44.04
+402051049,"Golden Grove",1,44.04,44.04
+211011256,"Rowville - Central",1,-29.60,-29.60
+801011018,"Lawson",1,47.67,47.67
+213021345,"Seabrook",1,54.23,54.23
