@@ -1,8 +1,0 @@
-CREATE USER ambari WITH PASSWORD 'T34m_f0rty!!';
-CREATE DATABASE ambari OWNER = ambari;
-CREATE USER hive WITH PASSWORD 'T34m_f0rty!!';
-CREATE DATABASE hive OWNER = hive;
-CREATE USER ambari WITH PASSWORD 'T34m_f0rty!!';
-CREATE DATABASE ambari OWNER = ambari;
-CREATE USER ranger WITH PASSWORD 'T34m_f0rty!!';
-CREATE DATABASE ranger OWNER = ranger;
